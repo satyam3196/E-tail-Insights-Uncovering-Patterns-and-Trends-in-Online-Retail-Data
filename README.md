@@ -3,13 +3,20 @@
 This is a data analysis project that explores an online retail dataset using histograms and word clouds to gain insights and draw inferences.
 
 Table of Contents
-Project Description
-Data Cleaning
-Data Analysis
-Visualization
-Installation
-Usage
-Contributing
+
+• Project Description
+
+• Data Cleaning
+
+• Data Analysis
+
+• Visualization
+
+• Installation
+
+• Usage
+
+• Contributing
 
 Project Description
 The goal of this project is to analyze an online retail dataset using various data analysis techniques and draw insights from the results. The dataset includes information such as customer demographics, product categories, purchase history, and product reviews. The project focuses on using histograms to visualize numerical data and word clouds to extract insights from product reviews.
